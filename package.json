@@ -1,0 +1,16 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "JSON Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "MasterCraft",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "nodemon": "^2.0.7"
+  }
+}
