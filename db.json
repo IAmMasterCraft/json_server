@@ -1868,7 +1868,8 @@
     "T0pKMjIzOA==": [
         "CIT701", "CIT703", "CIT711", "CIT735", "CIT753",
         "CIT759", "CIT208", "CIT211", "CIT215", "CIT237",
-        "MTH211", "MTH213"
+        "MTH211", "MTH213", "JIL516", "CLL534", "PHL252",
+        "JIL513", "JIL514"
     ],
     
     "SkNBMjI1OA==": [
@@ -1879,6 +1880,41 @@
     "QUJPMjMwMQ==": [
         "PHS801", "PHS803", "PHS805", "PHS807", "PHS809",
         "PHS811", "PHS813", "PHS815", "PHS817", "PHS819"
+    ],
+
+    "TlVQMTYwOQ==": [
+        "CRS102", "CRS122", "CRS142", "CRS192", "POL126"
+    ],
+
+    "QVVCMTYxMw==": [
+        "ACC203", "BUS205", "BUS207", "ECO231", "PAD251",
+        "STT205"
+    ],
+
+    "QUFBMTYxOQ==": [
+        "ACC201", "ACC203", "BFN209", "ECO231", "STT205",
+        "BUS205", "BUS207"
+    ],
+
+    "TlZGMTYyMQ==": [
+        "NSC503", "NSC505", "NSC509", "NSC511"
+    ],
+
+    "WU1OMTYyMw==": [
+        "FMS304", "PAD302", "PAD308", "PAD312", "PAD326",
+        "PAD330", "CRD324"
+    ],
+    
+    "UlROMTYyNQ==": [
+        "ECO311", "ECO341", "ECO347", "ECO329", "ECO343",
+        "ECO355", "BUS325"
+    ],
+
+    "SktOMTYyOQ==": [
+        "CIT208", "CIT212", "CIT246", "CIT292", "MTH282",
+        "BIO101", "PHY101", "BIO192", "ESM236", "ESM222",
+        "ESM212", "ESM206", "ESM204", "CHM202", "BIO218",
+        "BIO216", "BIO202"
     ]
 
 }
