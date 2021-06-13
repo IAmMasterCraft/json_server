@@ -1915,6 +1915,11 @@
         "BIO101", "PHY101", "BIO192", "ESM236", "ESM222",
         "ESM212", "ESM206", "ESM204", "CHM202", "BIO218",
         "BIO216", "BIO202"
+    ],
+
+    "UFJJTkNFU1MgQ0hJ": [
+        "MTH211", "MTH213", "CIT303", "CIT305", "CIT309", "CIT311",
+        "CIT392", "DAM301", "DAM344", "DAM364"
     ]
 
 }
