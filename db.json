@@ -435,7 +435,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "U1ZHMTcxOQ==": [
@@ -654,7 +655,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "U01OMTkzMw==": [
@@ -873,7 +875,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "U0FNMTk0Ng==": [
@@ -1092,7 +1095,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "RVVQMTc1OQ==": [
@@ -1311,7 +1315,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "SEFBMjI0MA==": [
@@ -1530,7 +1535,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "T0FDMjI0Mg==": [
@@ -1749,7 +1755,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "RkNVMjMwMg==": [
@@ -1968,7 +1975,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
     "SkFZMTcyNA==": [
@@ -2187,7 +2195,8 @@
         "MAC113", "MAC223", "MAC115", "MAC225", "MAC116", 
         "MAC232", "MAC242", "MAC246", "MAC311", "MAC312", 
         "MAC313", "MAC314", "MAC316", "MAC323", "MAC343", 
-        "BUS722"
+        "BUS722", "MTH106", "PHY103", "MTH211", "MTH213", 
+        "MTH281", "ENT411", "ENT308"
     ],
 
 
@@ -2298,6 +2307,45 @@
     "U09NSVJPU0U=": [
         "CHM301", "CHM307", "CHM391", "CHM303", "CHM305",
         "CHM311", "CHM309"
+    ],
+
+    "SVdQMTkwNw==": [
+        "BUS105", "CSS111", "CSS121", "ECO121", "MTH105"
+    ],
+
+    "RUFZMTkxMA==": [
+        "CIT309", "CIT311", "CIT333", "CIT341", "CIT351",
+        "CIT353", "CIT371", "CIT383", "MTH281"
+    ],
+
+    "QlpLMTkxMg==": [
+        "ENG224", "MAC214", "MAC232", "MAC242", "MAC246",
+        "MAC212"
+    ],
+
+    "UEFaMTkyMQ==": [
+        "BED111", "BED112", "BED114", "BUS105", "BUS106",
+        "ECO122", "EDU122", "EDU114", "MKT108", "MTH101",
+        "MTH102"
+    ],
+
+    "Sk1IMTkzMg==": [
+        "ACC101", "BUS105", "CSS121", "ECO121", "ENT101",
+        "MTH105"
+    ],
+
+    "QU5KMTkzNg==": [
+        "CIT309", "CIT311", "CIT333", "CIT341", "CIT351",
+        "CIT353", "CIT383", "CIT381", "CIT371"
+    ],
+
+    "QkFEMjAzMQ==": [
+        "INR251", "POL215", "POL221", "POL223", "POL231"
+    ],
+
+    "T0pBMjAzOQ==": [
+        "BIO206", "BIO216", "BIO218", "CHM202", "ESM204",
+        "ESM206", "ESM212", "ESM222", "ESM234", "ESM236"
     ]
 
 }
