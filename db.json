@@ -2579,6 +2579,16 @@
     "RklEMjI0MA==": [
         "DAM301", "CIT342", "CIT392", "CIT344", "DAM364",
         "DAM344"
+    ],
+
+    "SlVMMjMwOA==": [
+        "EMT307", "EMT309", "ESM341", "SLM305", "ESM345",
+        "ESM341", "PHY191", "CHM191", "ECO121", "CIT121"
+    ],
+    
+    "SlNQMjMxMQ==": [
+        "CIT211", "CIT213", "CIT215", "CIT237", "MTH213",
+        "MTH281"
     ]
 
 }
