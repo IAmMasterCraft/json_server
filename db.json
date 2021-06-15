@@ -2346,6 +2346,19 @@
     "T0pBMjAzOQ==": [
         "BIO206", "BIO216", "BIO218", "CHM202", "ESM204",
         "ESM206", "ESM212", "ESM222", "ESM234", "ESM236"
+    ],
+
+    "QUFLMjIzNA==": [
+        "BUS105", "CSS121", "ECO121", "ENT101", "MTH105"
+    ],
+
+    "V1NLMjIzNw==": [
+        "MTH105", "CSS121", "ECO121", "ENT101", "BUS105"
+    ],
+
+    "RklEMjI0MA==": [
+        "DAM301", "CIT342", "CIT392", "CIT344", "DAM364",
+        "DAM344"
     ]
 
 }
