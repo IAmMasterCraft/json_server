@@ -2768,6 +2768,45 @@
     "S1NUMTg0Mg==": [
         "ECE221", "ECE223", "ECE225", "ECE227", "ECE231",
         "EDU212", "EDU214", "EDU231", "EDU233", "ENG121"
+    ],
+
+    "QUhSMTkzNQ==": [
+        "ECO314", "ECO324", "ECO332", "ECO342", "ECO344",
+        "ECO348", "ECO356", "ECO329"
+    ],
+
+    "T1RCMTkzOA==": [
+        "ACC201", "ACC203", "BFN209", "BUS205", "ECO231",
+        "BUS207", "STT205", "CSS211", "CSS241", "CSS243",
+        "CSS245", "POL223"
+    ],
+
+    "QUJPMTk0MQ==": [
+        "EMT401", "EMT403", "EMT405", "EMT407", "EMT409",
+        "EMT411", "EMT417", "EMT421", "ESM421", "EMT311",
+        "ESM341", "ANP314"
+    ],
+
+    "QUJVMTk0NA==": [
+        "CIT212", "CIT246", "CIT292", "CIT411", "CIT425",
+        "CIT445", "CIT427", "CIT412", "CHM191", "BIO191",
+        "PHY191", "CIT432", "CIT484", "MTH213", "MTH281"
+    ],
+
+    "RVdQMTk1MQ==": [
+        "BIO101", "BIO191", "CHM101", "CHM103", "CHM191",
+        "ECO121", "MTH101", "PHY101", "PHY191"
+    ],
+
+    "QVNNMTk1Mw==": [
+        "MAC311", "MAC313", "MAC323", "MAC331", "MAC333",
+        "MAC341", "MAC343"
+    ],
+
+    "T0RPMTk1NQ==": [
+        "SED413", "EDU423", "EDU421", "BIO413", "BIO403",
+        "BIO403", "EDU323", "EMT417", "EMT421", "EMT407",
+        "EMT403"
     ]
 
 }
