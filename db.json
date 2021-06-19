@@ -2812,6 +2812,34 @@
     "QUZOMjAxNQ==": [
         "CHM192", "CHM191", "ECO121", "PHY191", "BIO203",
         "BIO215", "BIO217", "CIT237"
+    ],
+
+    "SVZTMjI1NQ==": [
+        "BIO303", "BIO301", "BIO305", "BIO307", "BIO311",
+        "BIO313", "EDU321", "EDU323"
+    ],
+
+    "UlJUMjMwMA==": [
+        "ECE221", "ENG341", "ECE311", "ECE313", "EDU321",
+        "EDU323", "ENG241", "PED313", "PED351"
+    ],
+
+    "Q09SMjMwMg==": [
+        "CSS341", "CSS343", "CSS351", "CSS361", "CSS331",
+        "CSS381", "PCR373"
+    ],
+
+    "UFVDMjMxNg==": [
+        "CSS356", "CSS354", "CSS342", "CSS352", "PCR362"
+    ],
+
+    "UFlOMjMzNA==": [
+        "ECO343", "ECO341", "ECO311", "ECO329", "BUS325"
+    ],
+
+    "QUFEMjM0MQ==": [
+        "CHM202", "EMT311", "ESM341", "EMT301", "EMT309",
+        "EMT307", "ESM345", "BIO304", "BIO192", "CHM192"
     ]
 
 }
