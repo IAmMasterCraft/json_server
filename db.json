@@ -2891,6 +2891,11 @@
         "EMT309", "EMT311", "ESM341", "ESM345", "SLM305",
         "BIO192", "CIT309", "CIT311", "CIT333", "CIT341",
         "CIT351", "CIT353", "CIT371", "CIT381", "CIT383"
+    ],
+
+    "TlVOMjIwNA==": [
+        "BUS106", "ECO122", "MTH106", "PAD122", "POL124",
+        "POL126"
     ]
 
 }
