@@ -225,7 +225,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "Q0hPOTc2OQ==": [
@@ -454,7 +455,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "U1ZHMTcxOQ==": [
@@ -683,7 +685,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "U01OMTkzMw==": [
@@ -912,7 +915,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "U0FNMTk0Ng==": [
@@ -1141,7 +1145,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "RVVQMTc1OQ==": [
@@ -1370,7 +1375,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "SEFBMjI0MA==": [
@@ -1599,7 +1605,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "T0FDMjI0Mg==": [
@@ -1828,7 +1835,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "RkNVMjMwMg==": [
@@ -2057,7 +2065,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
     "SkFZMTcyNA==": [
@@ -2286,10 +2295,11 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
-    "Q05GMjMwMQ==":[
+    "Q05GMjMwMQ==": [
         "CHM203", "CHM204", "CHM205", "CHM291", "CHM292", 
         "CHM301", "CHM303", "CHM305", "CHM307", "CHM309", 
         "CHM311", "CHM391", "CIT102", "CIT104", "CIT143", 
@@ -2515,7 +2525,8 @@
         "ENG423", "MKT303", "MKT104", "MTH212", "ECO441", 
         "ESM106", "MAC323", "ESM238", "MAC242", "MAC246", 
         "MAC212", "MTH411", "ESM231", "ESM211", "HED101", 
-        "HED103", "HED107", "ENG331", "ENT310"
+        "HED103", "HED107", "ENG331", "ENT310", "EDU252", 
+        "PED412", "BFN805"
     ],
 
 
