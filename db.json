@@ -2922,6 +2922,11 @@
     "U0JOMDcyNA==": [
         "CIT309", "CIT311", "CIT333", "CIT341", "CIT351",
         "CIT353", "CIT371", "CIT383", "MTH282"
+    ],
+
+    "VEVPMTAzMQ==": [
+        "CIT381", "CIT333", "CIT371", "CIT309", "CIT311",
+        "CIT341", "CIT351", "CIT383", "CIT353", "CHM192",
     ]
 
 }
