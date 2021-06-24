@@ -3168,6 +3168,11 @@
     "TktOMTIwNQ==": [
         "CHM102", "CHM192", "PHY102", "PHY192", "BIO102",
         "BIO192", "CIT104", "CIT102", "STT102", "MTH102"
+    ],
+
+    "R0xOMTIwNw==": [
+        "CRD124", "MTH105", "ACC203", "BFN203", "BFN209",
+        "BUS205", "BUS207"
     ]
 
 }
