@@ -3163,6 +3163,11 @@
         "POL214", "POL228", "POL226", "POL212", "POL216",
         "POL231", "POL223", "POL221", "POL215", "CRS202",
         "PCR271"
+    ],
+
+    "TktOMTIwNQ==": [
+        "CHM102", "CHM192", "PHY102", "PHY192", "BIO102",
+        "BIO192", "CIT104", "CIT102", "STT102", "MTH102"
     ]
 
 }
