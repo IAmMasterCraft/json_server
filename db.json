@@ -3237,6 +3237,11 @@
         "ENT101", "PCR274", "CSS212", "CSS242", "CSS243",
         "CSS244", "CSS246", "MTH382", "CIT392", "CIT382",
         "CIT344", "CIT342", "CIT353"
+    ],
+
+    "U1NOMTc0Mg==": [
+        "BIO102", "BIO192", "CHM101", "CHM102", "CHM192",
+        "CIT102", "CIT104", "PHY102", "STT102", "MTH102"
     ]
 
 }
