@@ -3217,6 +3217,14 @@
     "QlNFMTQxNA==": [
         "EMT307", "EMT301", "EMT309", "EMT311", "ESM3411",
         "ESM345", "SLM305", "BIO192", "CHM102"
+    ],
+
+    "SkZOMTUzNg==": [
+        "ACC311", "ACC313", "BFN303", "BUS317", "CLL307",
+        "PAD305", "MKT108", "MTH105", "BUS325", "ENT307",
+        "ENT101", "PCR274", "CSS212", "CSS242", "CSS243",
+        "CSS244", "CSS246", "MTH382", "CIT392", "CIT382",
+        "CIT344", "CIT342", "CIT353"
     ]
 
 }
