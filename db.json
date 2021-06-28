@@ -230,7 +230,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "Q0hPOTc2OQ==": [
@@ -464,7 +464,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "U1ZHMTcxOQ==": [
@@ -698,7 +698,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "U01OMTkzMw==": [
@@ -932,7 +932,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "U0FNMTk0Ng==": [
@@ -1166,7 +1166,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "RVVQMTc1OQ==": [
@@ -1400,7 +1400,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "SEFBMjI0MA==": [
@@ -1634,7 +1634,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "T0FDMjI0Mg==": [
@@ -1868,7 +1868,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "RkNVMjMwMg==": [
@@ -2102,7 +2102,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "SkFZMTcyNA==": [
@@ -2336,7 +2336,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "Q05GMjMwMQ==": [
@@ -2570,7 +2570,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
     "S0lUMTIwMA==": [
@@ -2804,7 +2804,7 @@
         "MAC232", "CHM408", "ESM221", "ESM342", "PAD405", 
         "BUS809", "INR122", "ESM291", "ESM112", "MTH210", 
         "JIL211", "PHL253", "PHL241", "PHL203", "MKT411", 
-        "CRD403"
+        "CRD403", "INR412", "CIT756", "EHS201", "BUS811"
     ],
 
 
@@ -3273,6 +3273,11 @@
     "VEFKMTg1MA==": [
         "CIT333", "CIT341", "CIT351", "CIT371", "MTH341",
         "STT311", "CIT311"
+    ],
+
+    "TUJOMjM1NQ==": [
+        "CIT102", "ENG122", "MAC116", "MAC132", "MAC134",
+        "MAC142"
     ]
 
 }
