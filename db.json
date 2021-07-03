@@ -3378,6 +3378,11 @@
 
     "RURKMTA3": [
         "MTH102"
+    ],
+
+    "V0ROMTAxNA==": [
+        "PHY192", "PHY191", "CHM191", "BIO215", "BIO216",
+        "BIO218", "CHM201", "CHM202", "CHM203", "CHM205"
     ]
 
 }
