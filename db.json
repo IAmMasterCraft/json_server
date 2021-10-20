@@ -3,9 +3,10 @@
         "BIO102", "CHM102", "CIT322", "CIT342", "CIT344",
         "CIT381", "CIT392"
     ],
-    
+
     "NVVQUDBSNw==": [
         "BIO102", "CHM102", "CIT322", "CIT342", "CIT344",
-        "CIT381", "CIT392", "BIO206", "BIO216", "CHM202"
+        "CIT381", "CIT392", "BIO206", "BIO216", "CHM202",
+        "POL424", "PHS803", "PHS801"
     ]
 }
